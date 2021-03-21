@@ -65,7 +65,7 @@ string postFix(string str){
       }
     }
     else{
-      cout << "Invalid character " << str[i] << " in infix expression\n";
+      cout << "Invalid character \'" << str[i] << "\' in infix expression\n";
       cout << "Exiting...\n";
       exit(-1);
     }

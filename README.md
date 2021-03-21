@@ -7,7 +7,7 @@ Perfect for people who are used to working in terminal and need to do a quick ca
 SETUP:
   - Download calc.cpp
   - Compile the cpp file natively by running this command: g++ calc.cpp -o calc
-  - Move the executable to /bin (bash looks here to find the executable when you enter a command) by running this command: sudo mv calc /bin
+  - Move the executable to /usr/bin (bash looks here to find the executable when you enter a command) by running this command: sudo mv calc /use/bin
 
 USAGE:
   - Enter "calc" in your terminal, this will start the program and prompt you for input
